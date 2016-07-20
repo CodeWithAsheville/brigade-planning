@@ -7,5 +7,4 @@ Mostly we worked out details of the 7/20 gathering at Asheville Brewing. Other d
 2. We will hold an organizing meeting every other Tuesday - the next meeting is 8/2/2016. The purpose of the meeting is general Code for Asheville planning and strategy. The meetings are open and anyone is welcome to attend, however, we won't promote or recruit people to attend. Notes from the meetings will be posted here.
 3. We discussed the need for guidelines for accepting projects. Initial points are in [Project Guidelines](../projects/project-guidelines.md).
 
-
-* [Principles](documentation/Design.md)
+Next meeting: 5:30pm on 8/2/2016 at Twisted Laurel.
