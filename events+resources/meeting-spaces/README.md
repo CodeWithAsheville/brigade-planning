@@ -9,3 +9,5 @@
 
 * [Mojo Co-Working](http://www.mojocoworking.com/en) 60 N. Market St., Asheville, NC
   TBD
+
+* [Housing Authority City of Asheville](http://www.haca.org/) 165 S French Broad Ave, Asheville, NC 28801
