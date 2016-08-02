@@ -7,6 +7,18 @@
   * Rotate meeting places - libraries, community centers, etc.
   * Be sensitive to issues of cost, recovery, etc.
 
+## Current Strategic Plan
+
+Goals for the remainder of 2016:
+
+* Continue to seek relationships with local community groups through CfA "members"
+* Finish the current round of projects (Beloved, Re-entry book)
+* Identify 1-3 new projects (possibly via the EJW)
+* Hackathon before end of year (possibly around EJW-Oct?)
+* Identify liaisons to local development communities & begin dialogue
+* Begin dialogues with City and County governments about how best
+
+See more on the [strategic planning page](./strategic-plan.md).
 
 ## Local Resources
 
