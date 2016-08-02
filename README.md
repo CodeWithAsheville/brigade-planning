@@ -5,7 +5,7 @@ For questions or comments, please file an issue [here](https://github.com/CodeFo
 
 * [Brigade Events & Resources](./events+resources/README.md)
 
-  Various resources for planning brigade meetings
+  Current goals, plus various resources for planning brigade meetings
 * [Organizing Meeting Notes](meeting-notes/organizing-meeting-notes.md)
 
   There is a bi-weekly organizing meeting. Notes are posted after each meeting and available here.
