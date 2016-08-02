@@ -1,4 +1,4 @@
 # Current Code for Asheville Projects
 
 * Beloved computer lab
-* Re-entry book
+* [Re-entry book](./project-pages/reentry-book.md)
