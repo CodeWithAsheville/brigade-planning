@@ -1,3 +1,3 @@
 # Code for Asheville Strategic Plan
 
-TBD
+Actually, there's not more to see here yet, but there will be!
