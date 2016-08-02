@@ -1,4 +1,8 @@
 # Code for Asheville Projects
 
 * [Project Guidelines](project-guidelines.md) - Guiding principles for taking on new projects
-* [Current Projects](current-projects.md) - A list of current efforts
+
+## Current Code for Asheville Projects
+
+* Beloved computer lab
+* [Re-entry book](./project-pages/reentry-book.md)
