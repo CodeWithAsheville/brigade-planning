@@ -4,5 +4,5 @@
 
 ## Current Code for Asheville Projects
 
-* Beloved computer lab
+* [Beloved computer lab](./project-pages/Beloved\ Computer\ Donations)
 * [Re-entry book](./project-pages/reentry-book.md)
