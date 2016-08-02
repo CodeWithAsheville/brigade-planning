@@ -1,5 +1,9 @@
 # Bi-Weekly Organizing Meeting Notes
 
+## Notes from the 8/2/2016 meeting
+
+TBD
+
 ## Notes from 7/19/2016 meeting
 Mostly we worked out details of the 7/20 gathering at Asheville Brewing. Other decisions/outcomes:
 
