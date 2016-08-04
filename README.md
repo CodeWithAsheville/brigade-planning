@@ -12,3 +12,5 @@ For questions or comments, please file an issue [here](https://github.com/CodeFo
 * [Current Projects and Project Guidelines](projects/README.md)
 
   General guidelines for taking on new projects and a list of current projects.
+  
+  For information on how to format you contributions on Github, please refer to the [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
