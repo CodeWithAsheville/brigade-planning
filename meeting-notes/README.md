@@ -1,5 +1,7 @@
 # Bi-Weekly Organizing Meeting Notes
 
+This is the regular brigade co-captains' planning meeting. It is open to anyone. Notes on decisions made will be posted after each meeting. Visit [here](https://www.meetup.com/Code-for-Asheville/events/lpltwlyvlbvb/) for information about times and locations.
+
 ## Notes from the 8/2/2016 meeting
 
 1. We will have a re-entry book working session in September, tentatively 9/10 from 11am - 2pm, venue TBD. Eric will be responsible for prep for the session & will consult with likely participants re: date/time.
