@@ -5,6 +5,7 @@ This is the regular brigade co-captains' planning meeting. It is open to anyone.
 ## Notes from the 8/2/2016 meeting
 
 1. We will have a re-entry book working session in September, tentatively 9/10 from 11am - 2pm, venue TBD. Eric will be responsible for prep for the session & will consult with likely participants re: date/time.
+2. 
     **UPDATE:** The working session is now set for 9/17/2016 11am-2pm. 
 2. We will begin planning a hackathon in October or November. Jesse will consult with folks on Slack re: date & begin planning.
 3. Eric will set up a meetup event for this organizing meeting.
