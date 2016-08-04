@@ -19,7 +19,7 @@ See more on the [strategic planning page](./strategic-plan.md).
 * We want to ensure that our meetings are accessible to the wider community.
   * Rotate meeting places - libraries, community centers, etc.
   * Be sensitive to issues of cost, recovery, etc.
-* We want to ensure that people can contribute without having to commit to showing up for all the meetings.
+* We want to ensure that people can contribute without having to commit to showing up for all the meetings and that there is a range of possible time commitments from very small to moderate.
 
 ## Local Resources
 
