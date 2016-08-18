@@ -2,11 +2,19 @@
 
 This is the regular brigade co-captains' planning meeting. It is open to anyone. Notes on decisions made will be posted after each meeting. Visit [here](https://www.meetup.com/Code-for-Asheville/events/lpltwlyvlbvb/) for information about times and locations.
 
+## Notes from the 8/16/2016 meeting
+
+1. Jesse will be reaching out to people in the AVL Coders League and AVL Women in Tech to serve as liaisons to and representatives of those groups.
+2. In the near future we will undertake a small fundraising effort to get enough money to cover meeting and hackathon event expenses through the end of the year. Our target will be $500, although our hope is that we will be able to keep expenses well below that.
+3. Eric will attend the NC brigade captains' get-together in Greensboro on 8/20 and report back.
+4. Eric will announce his new role at the City on Slack in the next few days.
+5. The co-captains and several other brigade members will attend the Economic Justice workgroup meeting 8/18. A number of planning decisions are depend on the outcome of that and will be taken up at the next planning meeting.
+
 ## Notes from the 8/2/2016 meeting
 
 1. We will have a re-entry book working session in September, tentatively 9/10 from 11am - 2pm, venue TBD. Eric will be responsible for prep for the session & will consult with likely participants re: date/time.
 
-    **UPDATE:** The working session is now set for 9/17/2016 11am-2pm. 
+    **UPDATE:** The working session is now set for 9/17/2016 11am-2pm.
 2. We will begin planning a hackathon in October or November. Jesse will consult with folks on Slack re: date & begin planning.
 3. Eric will set up a meetup event for this organizing meeting.
 4. Eric will announce the brigade planning repo on Slack and invite feedback, especially on our draft goals for the rest of the year.
