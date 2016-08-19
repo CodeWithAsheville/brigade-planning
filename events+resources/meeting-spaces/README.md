@@ -12,5 +12,6 @@
 
 * [Housing Authority City of Asheville](http://www.haca.org/) 165 S French Broad Ave, Asheville, NC 28801
 * [Dr. Wesley Grant Sr., Southside Center](http://www.ashevillenc.gov/Departments/ParksRecreation/Recreation/RecreationCenters.aspx#grantcenter) 970 Haywood Rd., Asheville, NC 28806
-  * (828) 259-5483 
+  * (828) 259-5483
+  * [mailto:llong@ashevillenc.gov]llong@ashevillenc.gov
  
