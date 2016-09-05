@@ -2,6 +2,13 @@
 
 This is the regular brigade co-captains' planning meeting. It is open to anyone. Notes on decisions made will be posted after each meeting. Visit [here](https://www.meetup.com/Code-for-Asheville/events/lpltwlyvlbvb/) for information about times and locations.
 
+## Notes from the 8/30/2016 meeting
+
+1. Jesse will create an updated website with a blog that we can use to communicate news and events. He'll also connect that to Mailchimp so that we can promote through all channels: email, blog, Facebook, Twitter, Slack and Meetup.
+2. Eric will write up a blog post on the brigade co-creation process and nominations for the provisional National Advisory Council.
+3. We decided that the focus of the autumn hackathon should be the November election. We'll probably move it earlier in October.
+4. Eric will figure out what help we need for the re-entry book work session on 9/17 so that we can promote, if necessary.
+
 ## Notes from the 8/16/2016 meeting
 
 1. Jesse will be reaching out to people in the AVL Coders League and AVL Women in Tech to serve as liaisons to and representatives of those groups.
