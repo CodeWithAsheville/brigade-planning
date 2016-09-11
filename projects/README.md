@@ -4,5 +4,5 @@ As a volunteer organization, Code for Asheville recognizes that peoples' interes
 
 ## Current Projects
 
-* [Beloved computer lab](./project-pages/BeLoved\ Computer\ Donations)
+* [Beloved computer lab](./project-pages/BeLoved-internet-cafe.md)
 * [Re-entry book](./project-pages/reentry-book.md)
